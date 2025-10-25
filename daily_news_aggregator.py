@@ -122,10 +122,7 @@ class DailyNewsAggregator:
             return content[:200] + "..."
         return content
 
-    def translate_text(self, text: str) -> str:
-        """翻译文本到中文"""
-        # 此功能已移至独立的翻译脚本
-        return text
+
 
     def generate_category_summary(self, news_items: List[NewsItem], category: str) -> str:
         """为分类生成中文总结"""
@@ -139,13 +136,9 @@ class DailyNewsAggregator:
         # 生成总结文本
         summary_text = f"{category}类今日热点新闻："
 
-        # 翻译主要标题
-        translated_titles = []
-        for title in titles:
-            translated = self.translate_text(title)
-            translated_titles.append(translated)
 
-        summary_text += "、".join(translated_titles[:3])  # 取前3个标题
+
+        summary_text += "、".join(titles[:3])  # 取前3个标题
 
         # 添加趋势分析
         if len(news_items) > 10:
@@ -157,11 +150,7 @@ class DailyNewsAggregator:
 
         return summary_text
 
-    async def fetch_mcp_news(self, category: str) -> List[NewsItem]:
-        """使用MCP服务器获取新闻"""
-        # 这里可以调用您的MCP服务器
-        # 例如：调用brave搜索、exa搜索等
-        return []
+
 
     async def aggregate_news(self) -> Dict[str, List[NewsItem]]:
         """聚合所有新闻"""
@@ -177,11 +166,9 @@ class DailyNewsAggregator:
                 if news_items:  # 确保不是None
                     rss_news.extend(news_items)
 
-            # MCP新闻（如果配置了）
-            mcp_news = await self.fetch_mcp_news(category)
 
             # 合并并去重
-            all_category_news = rss_news + mcp_news
+            all_category_news = rss_news
             all_news[category] = self.deduplicate_news(all_category_news)
 
             print(f"{category}类获取到{len(all_news[category])}条新闻")

@@ -1,6 +1,6 @@
 # Daily Hot News Report
 
-**Generated**: 2025-10-25 19:21:41
+**Generated**: 2025-10-25 21:07:29
 
 **Total News**: 50 items
 
@@ -71,61 +71,61 @@
 ### 1. Jake Paul Gets His Own "Star" After Call Of Duty Ejected Him Into Space
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: There aren&#039;t any more boxing exhibition matches for Jake Paul out in space, unless he gets to punch an alien.
+**Summary**: <p>Earlier this week, Activision debuted a new trailer for <a href="https://www.gamespot.com/articles/call-of-duty-black-ops-7-beta-start-time-how-to-get-in-and-everything-else-to-know/1100-6534073/">...
 **Link**: https://www.gamespot.com/articles/jake-paul-gets-his-own-star-after-call-of-duty-ejected-him-into-space/1100-6535703/?ftag=CAD-01-10abi2f
 
 ### 2. Warner Bros. Is Lobbying For A Minecraft Movie To Win Academy Awards
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: Jack Black should win Best Actor for playing Steve, WB says.
+**Summary**: <p>Warner Bros. is campaigning for this year's A Minecraft Movie to win some Academy Awards. Warner Bros. has launched a <a href="https://www.wbawards.com/screenings/film/?film=aminecraftmovie">"For Y...
 **Link**: https://www.gamespot.com/articles/warner-bros-is-lobbying-for-a-minecraft-movie-to-win-academy-awards/1100-6535704/?ftag=CAD-01-10abi2f
 
 ### 3. Halo Remake Announced For 2026, Features New Prequel Missions And Sprint, But No Multiplayer
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: Halo Studios announces a very poorly kept secret.
+**Summary**: <p dir="ltr">During the Halo World Championships today, Microsoft and Halo Studios officially announced Halo: Campaign Evolved. It’s described as a "faithful yet modernized" remake of the 2001 game, a...
 **Link**: https://www.gamespot.com/articles/halo-remake-announced-for-2026-features-new-prequel-missions-and-sprint-but-no-multiplayer/1100-6535695/?ftag=CAD-01-10abi2f
 
 ### 4. Halo Is Coming To PlayStation For The First Time
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: One of Microsoft&#039;s best-known exclusives is making the jump to a rival console.
+**Summary**: <p dir="ltr">Arguably <em>the </em>Microsoft crown jewel franchise, Halo, is coming to PlayStation for the first time. It's true that the sci-fi series has seen better days and may no longer be Micros...
 **Link**: https://www.gamespot.com/articles/halo-is-coming-to-playstation-for-the-first-time/1100-6535696/?ftag=CAD-01-10abi2f
 
 ### 5. Why Halo 1 Remake Has No Multiplayer
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: The new Halo: Campaign Evolved game for PS5 is only single-player.
+**Summary**: <p>The newly announced <a href="https://www.gamespot.com/articles/halo-remake-announced-for-2026-features-new-prequel-missions-and-sprint-but-no-multiplayer/1100-6535695/">Halo 1 remake</a> that <a hr...
 **Link**: https://www.gamespot.com/articles/why-halo-1-remake-has-no-multiplayer/1100-6535707/?ftag=CAD-01-10abi2f
 
 ### 6. Adorable New Astro Bot Collectibles Are Waiting To Be Rescued By You
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: Target has an exclusive Astro Bot Collector&#039;s Bundle, a large plushie, a sling bag, and more. Over at Walmart, you&#039;ll find an official lunchbox and $10 vinyl figures.
+**Summary**: <div><div data-embed-type="buylink" data-ref-id="4798" data-template="2" data-size="buylink__large" data-title="6535705 - Astro Bot Collector's Box" data-collection="" title="6535705 - Astro Bot Colle...
 **Link**: https://www.gamespot.com/articles/astro-bot-ps5-best-official-playstation-figures-plush-collectors-box/1100-6535705/?ftag=CAD-01-10abi2f
 
 ### 7. Save On Steelbook Edition Anime And Animated Films At Amazon
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: Stock up on animated movies from across the globe with these deals on steelbook and 4K Blu-rays.
+**Summary**: <p>Shout Factory has become one of the biggest names in the Blu-ray space, frequently releasing steelbook editions of popular and cult-classic movies. This includes a long list of <a href="https://www...
 **Link**: https://www.gamespot.com/articles/shout-factory-animation-blu-ray-sale/1100-6535642/?ftag=CAD-01-10abi2f
 
 ### 8. Netflix Closes Its Squid Game Studio
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: Netflix&#039;s gaming ambitions appear to have taken another blow, as Boss Fight has been closed down.
+**Summary**: <p>For years, Netflix has told investors that it's serious about investing in the video game industry. But the streamer's ambitions may need to be re-calibrated again. Boss Fight--the studio behind Ne...
 **Link**: https://www.gamespot.com/articles/netflix-closes-its-squid-game-studio/1100-6535709/?ftag=CAD-01-10abi2f
 
 ### 9. How To Get A Free Blade Skin In Marvel Rivals' Halloween Event
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: Boot up the new Marvel Zombies PvE mode to get yourself a free Blade skin.
+**Summary**: <p><a href="https://www.gamespot.com/games/marvel-rivals/">Marvel Rivals</a> is celebrating Halloween in style, with tons of events, and the opportunity to grab yourself a free Blade skin. The Blade s...
 **Link**: https://www.gamespot.com/articles/how-to-get-a-free-blade-skin-in-marvel-rivals-halloween-event/1100-6535710/?ftag=CAD-01-10abi2f
 
 ### 10. New C64 Mini Limited Edition Includes 25 Modern Commodore Games
 **Source**: www.gamespot.com
 **Date**: 2025-10-25
-**Summary**: The C64 Mini - Black Edition is preloaded with over $100 worth of modern Commodore homebrew and 64 classic &#039;80s games.
+**Summary**: <div title="Commodore 64 Mini (C64 Black Edition)" data-embed-type="buylink" data-ref-id="4799" data-template="2" data-size="buylink__large" data-title="Commodore 64 Mini (C64 Black Edition)" data-col...
 **Link**: https://www.gamespot.com/articles/the-c64-mini-black-edition-retro-computer-system-amazon-exclusive/1100-6535708/?ftag=CAD-01-10abi2f
 
 ## Finance (10 items)
@@ -244,63 +244,63 @@
 
 ## Entertainment (10 items)
 
-### 1. ‘KPop Demon Hunters’ Soundtrack Is Now Available on Yoto, the Kids Screen-Free Audio Platform
-**Source**: variety.com
-**Date**: 2025-10-25
-**Summary**: &#8220;KPop Demon Hunters&#8221; is coming to Yoto. The chart-topping soundtrack from the original Netflix movie is now available on the kids audio platform. The card will give fans exciting, early ac...
-**Link**: https://variety.com/2025/shopping/news/kpop-demon-hunters-soundtack-yoto-soundtrack-card-buy-online-1236560799/
-
-### 2. World Series 2025 Game 1 Livestream: How to Watch the L.A. Dodgers vs. Toronto Blue Jays Online Without Cable for Free
+### 1. World Series 2025 Game 1 Livestream: How to Watch the L.A. Dodgers vs. Toronto Blue Jays Online Without Cable for Free
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: After a grueling and long MLB season, two teams have faced just abut every team to make their ways to the 2025 World Series. Dodgers superstar Shohei Ohtani is showing dominance on the pitcher&#8217;s...
 **Link**: https://variety.com/2025/shopping/news/how-to-watch-world-series-mlb-online-livestream-free-1236560778/
 
-### 3. Paul Thomas Anderson’s ‘One Battle After Another’ Submits in Comedy at Golden Globes, Poised to Join ‘Nashville’ and ‘Emilia Pérez’ in Record Books
+### 2. Paul Thomas Anderson’s ‘One Battle After Another’ Submits in Comedy at Golden Globes, Poised to Join ‘Nashville’ and ‘Emilia Pérez’ in Record Books
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: Paul Thomas Anderson is ready to lean into the laughs with &#8220;One Battle After Another.&#8221; The acclaimed action thriller, loosely inspired by Thomas Pynchon&#8217;s novel &#8220;Vineland,&#822...
 **Link**: https://variety.com/2025/film/awards/one-battle-after-another-golden-globes-comedy-submission-1236559060/
 
-### 4. Mint Mobile Unveils Company’s First-Ever Home Internet Service: Here’s Everything to know About 5G Home MINTernet
+### 3. Mint Mobile Unveils Company’s First-Ever Home Internet Service: Here’s Everything to know About 5G Home MINTernet
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: Mint Mobile is bringing its irreverent, budget-conscious branding from cell phones to the living room with 5G Home MINTernet, a new low-cost home internet service powered by T-Mobile’s 5G network. Lau...
 **Link**: https://variety.com/2025/shopping/news/mint-mobile-5g-home-internet-sign-up-online-1236561072/
 
-### 5. Microsoft’s ‘Halo’ Coming to PlayStation in 2026 With ‘Modernized Remake’
+### 4. Microsoft’s ‘Halo’ Coming to PlayStation in 2026 With ‘Modernized Remake’
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: Xbox&#8217;s prized &#8220;Halo&#8221; franchise is coming to PlayStation 5 next year with a remake of the very first &#8220;Halo&#8221; game, 2001&#8217;s &#8220;Halo: Combat Evolved.&#8221; Titled &...
 **Link**: https://variety.com/2025/gaming/news/halo-playstation-2026-remake-1236561085/
 
-### 6. Morena Baccarin on ‘Sheriff Country,’ More ‘Deadpool’ Movies and Seeing Muscled-Up Nicholas Galitzine as He-Man on ‘Masters of the Universe’ Set: ‘Oh My, God, How Did You Do That?’
+### 5. Morena Baccarin on ‘Sheriff Country,’ More ‘Deadpool’ Movies and Seeing Muscled-Up Nicholas Galitzine as He-Man on ‘Masters of the Universe’ Set: ‘Oh My, God, How Did You Do That?’
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: Morena Baccarin has done her crimefighting homework. The actress stars in CBS’s new “Fire Country” spinoff “Sheriff Country” as Sheriff Mickey Fox. The procedural follows Mickey as she heads up her sm...
 **Link**: https://variety.com/2025/tv/columns/morena-baccarin-sheriff-country-deadpool-nicholas-galitzine-he-man-masters-of-the-universe-1236557187/
 
-### 7. At an L.A. Concert Honoring Warren Zevon, a Starry Cast of Friends and Acolytes Will Pay Tribute to a Wolfman and a Scholar
+### 6. At an L.A. Concert Honoring Warren Zevon, a Starry Cast of Friends and Acolytes Will Pay Tribute to a Wolfman and a Scholar
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: It&#8217;s Warren Zevon season. That may sound like a funny thing to say, in 2025, or in any year since the legendary rock singer-songwriter died in 2003, given a perennial underdog status that never ...
 **Link**: https://variety.com/2025/music/news/warren-zevon-tribute-concert-wild-honey-1236561026/
 
-### 8. Danny McBride, David Gordon Green, Peter Farrelly Use Their Star Power to Give Life to Doc ‘The Man Who Saves the World?’
+### 7. Danny McBride, David Gordon Green, Peter Farrelly Use Their Star Power to Give Life to Doc ‘The Man Who Saves the World?’
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: When Gabe Polsky pitched his latest documentary, &#8220;The Man Who Saves the World?&#8221; to the major streamers, they weren&#8217;t interested. &#8220;I made a sizzle and took it to all the usual s...
 **Link**: https://variety.com/2025/film/news/danny-mcbride-peter-farrelly-doc-the-man-who-saves-the-world-1236558719/
 
-### 9. ‘Shelby Oaks’ Director Chris Stuckmann on That Horrific Ending, Shooting on 2000s Camcorders and His YouTube Origins
+### 8. ‘Shelby Oaks’ Director Chris Stuckmann on That Horrific Ending, Shooting on 2000s Camcorders and His YouTube Origins
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: SPOILER ALERT: This article contains spoilers for the ending of &#8220;Shelby Oaks,&#8221; now playing in theaters. So, who took Riley Brennan? Director Chris Stuckmann makes his directorial debut wit...
 **Link**: https://variety.com/2025/film/news/shelby-oaks-ending-director-chris-stuckmann-youtube-1236559966/
 
-### 10. UFC 321 Livestream: How to Watch Aspinall vs. Gane MMA Fight Live Online
+### 9. UFC 321 Livestream: How to Watch Aspinall vs. Gane MMA Fight Live Online
 **Source**: variety.com
 **Date**: 2025-10-25
 **Summary**: After light heavyweights Alex Pereira defeated Magomed Ankalaev by technical knockout in round one during UFC 320, the Ultimate Fighting Championship travels to &#8220;The Emirates&#8221; in the Middl...
 **Link**: https://variety.com/2025/shopping/news/how-to-watch-ufc-321-aspinall-vs-gane-online-livestream-free-1236560516/
+
+### 10. How to Watch Joseph Parker vs. Fabio Wardley Live Online
+**Source**: variety.com
+**Date**: 2025-10-25
+**Summary**: With interim WBO heavyweight champion Joseph Parker being the prime contender to take on undisputed WBO heavyweight champion Oleksandr Usyk, the Kiwi still has to grow in the boxing ranks to earn a sp...
+**Link**: https://variety.com/2025/shopping/news/how-to-watch-parker-vs-wardley-boxing-ppv-online-livestream-free-1236560539/
 
