@@ -1,0 +1,61 @@
+{
+    "categories": {
+        "tech": [
+            "technology",
+            "AI",
+            "programming",
+            "gadgets"
+        ],
+        "gaming": [
+            "gaming",
+            "games",
+            "esports",
+            "virtual reality",
+            "copyright",
+            "law",
+            "infringement"
+        ],
+        "finance": [
+            "finance",
+            "business",
+            "economy",
+            "stocks"
+        ],
+        "science": [
+            "science",
+            "research",
+            "space",
+            "health"
+        ],
+        "entertainment": [
+            "entertainment",
+            "movies",
+            "music",
+            "celebrity"
+        ]
+    },
+    "sources": {
+        "tech": [
+            "https://feeds.arstechnica.com/arstechnica/technology-lab"
+        ],
+        "gaming": [
+            "https://www.gamespot.com/feeds/news/"
+        ],
+        "finance": [
+            "https://feeds.marketwatch.com/marketwatch/marketpulse/"
+        ],
+        "science": [
+            "https://www.sciencenews.org/feed"
+        ],
+        "entertainment": [
+            "https://variety.com/feed/"
+        ]
+    },
+    "category_names": {
+        "tech": "Tech",
+        "gaming": "Gaming",
+        "finance": "Finance",
+        "science": "Science",
+        "entertainment": "Entertainment"
+    }
+}
